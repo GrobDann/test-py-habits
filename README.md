@@ -3,7 +3,7 @@
 A simple terminal-based Python program that helps track:
 - Daily mood (1–10)
 - Whether you coded today
-- Whether you stayed clean today
+- Whether you stayed clean from any mishaps today
 
 ## Features
 - User input handling
